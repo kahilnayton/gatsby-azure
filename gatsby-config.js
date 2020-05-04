@@ -8,6 +8,12 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: 'gatsby-source-prismic-graphql',
+      options: {
+        repositoryName: 'gatsby-azure', // required
+      },
+    },
+    {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       // See the theme's README for all available options
       options: {
@@ -68,3 +74,5 @@ module.exports = {
     `gatsby-plugin-netlify`,
   ],
 }
+
+
