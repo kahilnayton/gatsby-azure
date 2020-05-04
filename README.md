@@ -7,6 +7,8 @@
   Gatsby Starter: Minimal Blog
 </h1>
 
+test test
+
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Minimal Blog is released under the MIT license." />
