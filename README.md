@@ -7,7 +7,6 @@
   Gatsby Starter: Minimal Blog
 </h1>
 
-test test
 
 <p align="center">
   <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog/blob/master/LICENSE">
